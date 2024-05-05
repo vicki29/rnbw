@@ -38,6 +38,7 @@ import ResizablePanels from "./ResizablePanels";
 import { debounce } from "./helper";
 
 export default function MainPage() {
+  // test
   // redux
   const dispatch = useDispatch();
   const navigate = useNavigate();
